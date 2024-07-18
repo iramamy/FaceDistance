@@ -1,17 +1,17 @@
-# Dynamic Text Scaling Based on User Distance from the screen
+# 📏 Dynamic Text Scaling Based on User Distance from the Screen 🖥️
 
-This project uses OpenCV and cvzone to dynamically adjust the size of text based on the user's distance from the screen. By utilizing face detection and calculating the distance between the user's eyes, the text size is scaled accordingly.
+This project uses **OpenCV** and **cvzone** to dynamically adjust the size of text based on the user's distance from the screen. By utilizing face detection and calculating the distance between the user's eyes, the text size is scaled accordingly.
 
-## Overview
+## 📝 Overview
 
-## Tools
-- OpenCV
-- cvzone
-- mediapipe
+## 🛠️ Tools
+- 🖼️ **OpenCV**
+- 🎛️ **cvzone**
+- 🖐️ **Mediapipe**
 
-## Tags
-- Face detection
-- Computer vision
-- Artificial intelligence
-- Machine learning
-- Mediapipe
+## 🏷️ Tags
+- 👁️ **Face Detection**
+- 📷 **Computer Vision**
+- 🤖 **Artificial Intelligence**
+- 🧠 **Machine Learning**
+- 🖐️ **Mediapipe**
